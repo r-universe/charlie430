@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "factset.protobuf.stach.v2"]
+	path = factset.protobuf.stach.v2
+	url = https://github.com/cran/factset.protobuf.stach.v2
+	shallow = true
+	registered = true
